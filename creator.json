@@ -14,12 +14,11 @@
     
    "guard": {
       "uniquekey":"guard",
-      "title":"guardontop",
       "description":"guardscripts | the best free original roblox scripts | https://guard.lol",
       "image_url":"https://camo.githubusercontent.com/da81bcae40eced77275c6f804d511c9d3762ea713d8f0a662e2f47f66fcbbf12/68747470733a2f2f6c756e2d6173736574732e73332e75732d776573742d3030302e6261636b626c617a6562322e636f6d2f4f5a43663548696c68304b72766c7735383074644f512f644b66494a5475574d30366b344f7978455a4b684b772f47726f7570253230372e706e67",
       "providerName":"guard.lol",
       "providerUrl":"https://guard.lol",
-      "authorName":"guardembed example",
+      "authorName":"guardontop",
       "authorUrl":"https://guard.lol/embed",
       "color":"#4b49bf"
     },
