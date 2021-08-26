@@ -20,14 +20,16 @@
       "providerUrl":"https://guard.lol",
       "authorName":"text",
       "authorUrl":"https://guard.lol?auth=em",
-      "color":"#000"
+      "color":"#000000"
     },
-    "testtest": {
-      "uniquekey":"testtest",
-      "title":"testtest",
-      "description":"testtest",
-      "providerName":"testtest",
-      "authorName":"text"
+    
+    "notice": {
+      "uniquekey":"notice",
+      "title":"This isn't a game exploit this is a server that makes scripts for fun and free only.",
+      "description":"THIS DOES NOT BREAK ROBLOX'S TOS OR DISCORD'S. THIS IS NOT A CHEAT, THESE ARE SCRIPTS. WE DON'T TAKE RESPONSIBILITY FOR OUR CLIENTS CHOOSE WHAT THEY WANT TO DO WITH IT. THE SCRIPTS INTENDED USE IS TO BE USED FOR ROBLOX STUDIO NOT A THIRD PARTY SOFTWARE. THIS IS NOT A CHEAT/EXPLOIT. ONCE AGAIN OUR CLIENTS CHOOSE WHAT THEY WANT TO DO WITH IT.",
+      "providerName":"Read this notice regarding the service provided in this server.",
+      "providerUrl":"https://guard.lol/notice",
+      "color":"#347deb"
     },
     "":"↓ ↓"
 }
