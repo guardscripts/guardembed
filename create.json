@@ -1,0 +1,25 @@
+{
+    " id": {
+      "title":"text",
+      "description":"text",
+      "image_url":"https://",
+      "providerName":"text",
+      "providerUrl":"url",
+      "authorName":"text",
+      "authorUrl":"url",
+      "color":"#fff",
+      
+    },
+   "guard": {
+      "title":"guardontop",
+      "description":"guardscripts free original scripts",
+      "image_url":"https://guard.lol/videos/pointlaugh.png",
+      "providerName":"provname",
+      "providerUrl":"https://guard.lol",
+      "authorName":"text",
+      "authorUrl":"https://guard.lol?auth=em",
+      "color":"#000",
+    },
+
+    "":"↓ ↓"
+}
