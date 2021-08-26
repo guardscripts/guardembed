@@ -7,7 +7,7 @@
       "providerUrl":"url",
       "authorName":"text",
       "authorUrl":"url",
-      "color":"#fff",
+      "color":"#fff"
       
     },
    "guard": {
@@ -18,7 +18,7 @@
       "providerUrl":"https://guard.lol",
       "authorName":"text",
       "authorUrl":"https://guard.lol?auth=em",
-      "color":"#000",
+      "color":"#000"
     },
 
     "":"↓ ↓"
