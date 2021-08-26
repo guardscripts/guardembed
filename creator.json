@@ -22,6 +22,12 @@
       "authorUrl":"https://guard.lol?auth=em",
       "color":"#000"
     },
-
+    "test": {
+      "uniquekey":"testtest",
+      "title":"testtest",
+      "description":"testtest",
+      "providerName":"testtest",
+      "authorName":"text"
+    },
     "":"↓ ↓"
 }
