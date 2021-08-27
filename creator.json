@@ -8,7 +8,7 @@
       "providerUrl":"url",
       "authorName":"text",
       "authorUrl":"url",
-      "color":"#fff"
+      "color":"#fff",
       "bottom_image": true
     },
     
@@ -20,7 +20,7 @@
       "providerUrl":"https://guard.lol",
       "authorName":"guardontop",
       "authorUrl":"https://guard.lol/embed",
-      "color":"#4b49bf"
+      "color":"#4b49bf",
       "bottom_image": true
     },
     
