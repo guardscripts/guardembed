@@ -9,7 +9,7 @@
       "authorName":"text",
       "authorUrl":"url",
       "color":"#fff"
-      "bottom_image" : true
+      "bottom_image": true
     },
     
    "guard": {
@@ -21,7 +21,7 @@
       "authorName":"guardontop",
       "authorUrl":"https://guard.lol/embed",
       "color":"#4b49bf"
-      "bottom_image" : true
+      "bottom_image": true
     },
     
     "notice": {
